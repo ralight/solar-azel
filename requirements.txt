@@ -1,0 +1,4 @@
+influxdb
+matplotlib
+pysolar
+pytz
